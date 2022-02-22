@@ -682,6 +682,14 @@ h1 {
   justify-content: center;
 }
 
+.sewb {
+  border: 0.5rem solid #fdf2e9;
+}
+
+.sew {
+  border: 0.5rem solid white;
+}
+
 .start_eating_well,
 .start_eating_well:link,
 .start_eating_well:visited {
@@ -695,7 +703,6 @@ h1 {
   color: white;
   background-color: #e67e22;
   margin-top: 4.8rem;
-  border: 0.5rem solid;
   text-align: center;
 }
 
