@@ -17,9 +17,9 @@ Omnifood is a simple static website project built with HTML. It showcases a fict
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/filipkobus/omnifood.git`
+1. Clone the repository: `git clone https://github.com/filip-kobus/omnifood.git`
 2. Open the `index.html` file in your web browser to view the website.
 
 ## Author
 
-[Filip Kobus](https://github.com/filipkobus)
+[Filip Kobus](https://github.com/filip-kobus)
