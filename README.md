@@ -13,7 +13,9 @@ Omnifood is a simple static website project built with HTML. It showcases a fict
 
 ## Technologies
 
-- **HTML:** Markup language for structuring web pages.
+- **HTML:**
+- **CSS:**
+- **JS:**
 
 ## Getting Started
 
