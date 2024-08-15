@@ -13,9 +13,9 @@ Omnifood is a simple static website project built with HTML. It showcases a fict
 
 ## Technologies
 
-- **HTML:**
-- **CSS:**
-- **JS:**
+- **HTML**
+- **CSS**
+- **JS**
 
 ## Getting Started
 
