@@ -6,6 +6,8 @@ Omnifood is a simple static website project built with HTML. It showcases a fict
 
 ## Features
 
+![image](https://github.com/user-attachments/assets/c096c3de-4167-420c-bfdc-1cd74b0f1175)
+
 - **Clean Design:** Modern and minimalist design for easy navigation.
 - **Responsive:** Fully responsive layout for seamless viewing on various devices.
 - **Sections:** Organized sections highlighting different aspects of the food delivery service.
